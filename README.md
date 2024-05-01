@@ -1,1 +1,1 @@
-"# Trivia - Chaster Extension" 
+# Trivia - Chaster Extension"
