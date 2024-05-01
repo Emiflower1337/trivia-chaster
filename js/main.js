@@ -71,7 +71,7 @@ window.onload = function () {
             if (givenAnswer === correctAnswer) {
                 addChecker(true);             
             } else {
-                addChecker(false);                        
+                addChecker(false);    
             }
 
             if (current < Object.keys(allQuestions).length -1) {
@@ -99,6 +99,6 @@ window.onload = function () {
             checker.appendChild(createDiv);
         }
     }
-    
+
     fetchQuestions();
 };
